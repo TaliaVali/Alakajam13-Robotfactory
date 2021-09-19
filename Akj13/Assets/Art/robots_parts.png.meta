@@ -4,52 +4,472 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -1559323468000754396
-    second: Robot
+    second: robots_parts_0
   - first:
       213: 523670740441586172
-    second: Factory
+    second: robots_parts_1
   - first:
       213: -4607879520442258985
-    second: Play_Button
+    second: robots_parts_2
   - first:
       213: -8981099531179316479
-    second: Wrong_Button
+    second: robots_parts_3
   - first:
       213: 6835021623945285831
-    second: Right_Button
+    second: robots_parts_4
   - first:
       213: 6079039534887154926
-    second: Again_Button
+    second: robots_parts_5
   - first:
       213: -3145875837774562771
-    second: Arm_green1_1
+    second: robots_parts_18
   - first:
       213: 7806342235407969284
-    second: Arm_green1_2
+    second: robots_parts_19
   - first:
       213: 1045803368788796513
-    second: Head_green_1
+    second: robots_parts_20
   - first:
       213: 9148647883978700249
-    second: Head_grey_5
+    second: robots_parts_21
   - first:
       213: 2800019543842302859
-    second: Legs_yellow_1
+    second: robots_parts_22
   - first:
       213: 8780743675226140204
-    second: Arm_grey2_1
+    second: robots_parts_23
   - first:
       213: -1828661366140946083
-    second: Arm_grey2_2
+    second: robots_parts_24
   - first:
       213: -4732171969027489052
-    second: Legs_green2
+    second: robots_parts_25
   - first:
       213: 2091469081998623420
-    second: Legs_red_8
+    second: robots_parts_26
   - first:
       213: 3009043263178160798
-    second: Head_yellow_8
+    second: robots_parts_27
+  - first:
+      213: 669188449765975291
+    second: robots_parts_28
+  - first:
+      213: -3142274075460061039
+    second: robots_parts_29
+  - first:
+      213: -1188997752208097936
+    second: robots_parts_30
+  - first:
+      213: -824684382126023399
+    second: robots_parts_31
+  - first:
+      213: 1582531774420551131
+    second: robots_parts_32
+  - first:
+      213: 6059491383860516547
+    second: robots_parts_33
+  - first:
+      213: 3995842558725526891
+    second: robots_parts_34
+  - first:
+      213: 1048766693198870031
+    second: robots_parts_35
+  - first:
+      213: -8571132360668954119
+    second: robots_parts_36
+  - first:
+      213: 3591663440369771644
+    second: robots_parts_37
+  - first:
+      213: 7876888886996928736
+    second: robots_parts_38
+  - first:
+      213: 4014192428709841543
+    second: robots_parts_39
+  - first:
+      213: -4592537097816289579
+    second: robots_parts_40
+  - first:
+      213: -5663880458701174958
+    second: robots_parts_41
+  - first:
+      213: 6429697131222509741
+    second: robots_parts_42
+  - first:
+      213: -2358628221507135031
+    second: robots_parts_43
+  - first:
+      213: -8716999838495584726
+    second: robots_parts_44
+  - first:
+      213: 7586072476855657615
+    second: robots_parts_45
+  - first:
+      213: -5711274908766597290
+    second: robots_parts_46
+  - first:
+      213: -4917325482349012480
+    second: robots_parts_47
+  - first:
+      213: 8986245047689741482
+    second: robots_parts_48
+  - first:
+      213: -3586114966968937125
+    second: robots_parts_49
+  - first:
+      213: -4324820401221915174
+    second: robots_parts_50
+  - first:
+      213: 7392687753098794676
+    second: robots_parts_51
+  - first:
+      213: -6551796039253607817
+    second: robots_parts_52
+  - first:
+      213: -1683700281224939999
+    second: robots_parts_53
+  - first:
+      213: -9217309158181245801
+    second: robots_parts_54
+  - first:
+      213: 2394873444269357674
+    second: robots_parts_55
+  - first:
+      213: -6877704304751176898
+    second: robots_parts_56
+  - first:
+      213: 9145245013627803798
+    second: robots_parts_57
+  - first:
+      213: 6094440671037838664
+    second: robots_parts_58
+  - first:
+      213: -3966819521674774092
+    second: robots_parts_59
+  - first:
+      213: -1749330296465401874
+    second: robots_parts_60
+  - first:
+      213: 7877580191563223410
+    second: robots_parts_61
+  - first:
+      213: 3676521914256143049
+    second: robots_parts_62
+  - first:
+      213: -817221344850906093
+    second: robots_parts_63
+  - first:
+      213: -528703405779748267
+    second: robots_parts_64
+  - first:
+      213: 2511333043351512120
+    second: robots_parts_65
+  - first:
+      213: -3649808203080549567
+    second: robots_parts_66
+  - first:
+      213: 2077895964568271612
+    second: robots_parts_67
+  - first:
+      213: 4710765113370761218
+    second: robots_parts_68
+  - first:
+      213: 654604792339988534
+    second: robots_parts_69
+  - first:
+      213: 834818136131254359
+    second: Play_Button
+  - first:
+      213: -8653282580344439976
+    second: robots_parts_71
+  - first:
+      213: 6872959808057278745
+    second: robots_parts_72
+  - first:
+      213: 6575276593644202413
+    second: robots_parts_73
+  - first:
+      213: 6976672795435599307
+    second: robots_parts_74
+  - first:
+      213: -5887833934658196761
+    second: robots_parts_75
+  - first:
+      213: 6064319674025044037
+    second: robots_parts_76
+  - first:
+      213: 6079543571428942657
+    second: robots_parts_77
+  - first:
+      213: -3474386392067738714
+    second: robots_parts_78
+  - first:
+      213: 953226389477839027
+    second: robots_parts_79
+  - first:
+      213: 1637826265511978316
+    second: robots_parts_80
+  - first:
+      213: -6843263142694479940
+    second: robots_parts_81
+  - first:
+      213: -165576726351214561
+    second: robots_parts_82
+  - first:
+      213: -1924685910390058401
+    second: robots_parts_83
+  - first:
+      213: 8653332101798490347
+    second: robots_parts_84
+  - first:
+      213: -8586517807130238844
+    second: robots_parts_85
+  - first:
+      213: 2103950792948390175
+    second: robots_parts_86
+  - first:
+      213: -276789498213749490
+    second: robots_parts_87
+  - first:
+      213: -2224622789015948941
+    second: robots_parts_88
+  - first:
+      213: -732891836903724441
+    second: robots_parts_89
+  - first:
+      213: 3283667272827565053
+    second: robots_parts_90
+  - first:
+      213: 3134108726059838033
+    second: robots_parts_91
+  - first:
+      213: -6533131732115480684
+    second: robots_parts_92
+  - first:
+      213: -9145057160452296334
+    second: robots_parts_93
+  - first:
+      213: -1784800659669579623
+    second: robots_parts_94
+  - first:
+      213: 6324603952841050441
+    second: robots_parts_95
+  - first:
+      213: -4025609029825929653
+    second: robots_parts_96
+  - first:
+      213: -7227539854359027656
+    second: robots_parts_97
+  - first:
+      213: -446322310633322007
+    second: robots_parts_98
+  - first:
+      213: 4556693289039681985
+    second: robots_parts_99
+  - first:
+      213: -3025258697814884639
+    second: robots_parts_100
+  - first:
+      213: 1395815466403526907
+    second: robots_parts_101
+  - first:
+      213: -2930258795482477626
+    second: robots_parts_102
+  - first:
+      213: 1765730076426721225
+    second: robots_parts_103
+  - first:
+      213: 7396316515850180833
+    second: robots_parts_104
+  - first:
+      213: 1756496953145819899
+    second: robots_parts_105
+  - first:
+      213: -5787507639442289840
+    second: robots_parts_106
+  - first:
+      213: 4760712152505058291
+    second: robots_parts_107
+  - first:
+      213: 8280495508580108734
+    second: robots_parts_108
+  - first:
+      213: -5020679484124735767
+    second: robots_parts_109
+  - first:
+      213: -7293944563450873252
+    second: robots_parts_6
+  - first:
+      213: 8373620722347259714
+    second: robots_parts_7
+  - first:
+      213: -7931004955158869300
+    second: robots_parts_8
+  - first:
+      213: -7499703113837284606
+    second: robots_parts_9
+  - first:
+      213: 8565428919475824725
+    second: robots_parts_10
+  - first:
+      213: -4718825076282195125
+    second: robots_parts_11
+  - first:
+      213: -5713117695761486031
+    second: robots_parts_12
+  - first:
+      213: -622914396407670829
+    second: robots_parts_13
+  - first:
+      213: -6790299869529576338
+    second: robots_parts_14
+  - first:
+      213: 1969132347435102299
+    second: robots_parts_15
+  - first:
+      213: 9164237074500747950
+    second: robots_parts_16
+  - first:
+      213: -3000462123617809675
+    second: robots_parts_110
+  - first:
+      213: -5097604517272510820
+    second: robots_parts_111
+  - first:
+      213: -8938720736255392909
+    second: Title_Robot
+  - first:
+      213: 407239149801915122
+    second: Title_Factory
+  - first:
+      213: -2521805650388127738
+    second: robots_parts_116
+  - first:
+      213: -3971736005052988573
+    second: robots_parts_117
+  - first:
+      213: -338195569485820163
+    second: robots_parts_118
+  - first:
+      213: 8116075691517886122
+    second: robots_parts_119
+  - first:
+      213: 2650258986290853186
+    second: robots_parts_120
+  - first:
+      213: 8289869291827305548
+    second: robots_parts_121
+  - first:
+      213: 387369350348472576
+    second: robots_parts_122
+  - first:
+      213: 8813800323490227471
+    second: robots_parts_123
+  - first:
+      213: 2008327964732869074
+    second: robots_parts_124
+  - first:
+      213: -1747600171346690198
+    second: robots_parts_125
+  - first:
+      213: 5068279809360044306
+    second: robots_parts_126
+  - first:
+      213: 5371503502452260272
+    second: robots_parts_127
+  - first:
+      213: 3373133173419474624
+    second: robots_parts_128
+  - first:
+      213: 7175864393795606756
+    second: robots_parts_129
+  - first:
+      213: 724037668143695735
+    second: robots_parts_130
+  - first:
+      213: -5281409058424875773
+    second: robots_parts_131
+  - first:
+      213: -8419380545311843632
+    second: robots_parts_132
+  - first:
+      213: 9105379376162105709
+    second: robots_parts_133
+  - first:
+      213: 3995211075851316667
+    second: robots_parts_134
+  - first:
+      213: -7612444198750942350
+    second: robots_parts_135
+  - first:
+      213: 5393715120966565457
+    second: robots_parts_136
+  - first:
+      213: 1291907026319672204
+    second: robots_parts_137
+  - first:
+      213: -4560382670212781104
+    second: robots_parts_138
+  - first:
+      213: 2058852740714214232
+    second: robots_parts_139
+  - first:
+      213: 3542978534764845422
+    second: robots_parts_140
+  - first:
+      213: -4733407241564876328
+    second: robots_parts_141
+  - first:
+      213: -4466356990465344406
+    second: robots_parts_3
+  - first:
+      213: -8752799488439843656
+    second: robots_parts_4
+  - first:
+      213: 5433544750578019011
+    second: robots_parts_5
+  - first:
+      213: 8658895596643790259
+    second: robots_parts_143
+  - first:
+      213: 5486429060532673317
+    second: robots_parts_144
+  - first:
+      213: -6465281528260000505
+    second: robots_parts_17
+  - first:
+      213: 1193020993459492211
+    second: robots_parts_145
+  - first:
+      213: 494476644229638973
+    second: robots_parts_146
+  - first:
+      213: -3267448118017756738
+    second: robots_parts_147
+  - first:
+      213: 2889752876914082448
+    second: robots_parts_148
+  - first:
+      213: 2227700529568472146
+    second: robots_parts_149
+  - first:
+      213: -5741702439423185573
+    second: robots_parts_150
+  - first:
+      213: -5286961021866276846
+    second: robots_parts_151
+  - first:
+      213: -5941302417575601026
+    second: robots_parts_152
+  - first:
+      213: 5531350741697100385
+    second: robots_parts_153
+  - first:
+      213: -5293538329591356629
+    second: robots_parts_154
+  - first:
+      213: -1424817810406537563
+    second: robots_parts_155
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -151,13 +571,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Robot
+      name: robots_parts_0
       rect:
         serializedVersion: 2
-        x: 404
-        y: 0
-        width: 337
-        height: 150
+        x: 6
+        y: 455
+        width: 39
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,13 +592,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Factory
+      name: robots_parts_1
       rect:
         serializedVersion: 2
-        x: 787
-        y: 31
-        width: 350
-        height: 85
+        x: 55
+        y: 455
+        width: 39
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,6 +608,1392 @@ TextureImporter:
       bones: []
       spriteID: cf9594f83c3744700800000000000000
       internalID: 523670740441586172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 455
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9ed306df58d00c0800000000000000
+      internalID: -4607879520442258985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 455
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b21af6f89bc5380800000000000000
+      internalID: -8981099531179316479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 455
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05f5714ffdade50800000000000000
+      internalID: 6835021623945285831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 455
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee43184bf361d5450800000000000000
+      internalID: 6079039534887154926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 455
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a7e148014b6ca90800000000000000
+      internalID: -7293944563450873252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_7
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 455
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247bb5f7ea3153470800000000000000
+      internalID: 8373620722347259714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 450
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca84e773096fe190800000000000000
+      internalID: -7931004955158869300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_9
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 450
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20376dac0c3bbe790800000000000000
+      internalID: -7499703113837284606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 450
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e63e78348ed670800000000000000
+      internalID: 8565428919475824725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 450
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b438ef2389d538eb0800000000000000
+      internalID: -4718825076282195125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_12
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 450
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6320a9bde6b0b0800000000000000
+      internalID: -5713117695761486031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_13
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 450
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7d4a428a6fa57f0800000000000000
+      internalID: -622914396407670829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_14
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 450
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cee46ce3204c1a0800000000000000
+      internalID: -6790299869529576338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_15
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 450
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50b994ef63c35b10800000000000000
+      internalID: 1969132347435102299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_17
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 256
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7050b2f54b4b646a0800000000000000
+      internalID: -6465281528260000505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a76f5d79a9754d0800000000000000
+      internalID: -3145875837774562771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cee9047e2b55c60800000000000000
+      internalID: 7806342235407969284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_20
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164209d7f90738e00800000000000000
+      internalID: 1045803368788796513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5fda367c686fe70800000000000000
+      internalID: 9148647883978700249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b2fd2a0faabd620800000000000000
+      internalID: 2800019543842302859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eac99a9d77bd970800000000000000
+      internalID: 8780743675226140204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5930b81d2a4f96e0800000000000000
+      internalID: -1828661366140946083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 405
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e24e029aa2f35eb0800000000000000
+      internalID: -4732171969027489052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 375
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28d3b8c04660d10800000000000000
+      internalID: 2091469081998623420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_27
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 376
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a348fb7e442c920800000000000000
+      internalID: 3009043263178160798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 375
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4681c795f694900800000000000000
+      internalID: 669188449765975291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_29
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 375
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b84970666464d0800000000000000
+      internalID: -3142274075460061039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_30
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 375
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07df5ec08d4df7fe0800000000000000
+      internalID: -1188997752208097936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_31
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 376
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd09f7ce12e84f0800000000000000
+      internalID: -824684382126023399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 375
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd50b14a34846f510800000000000000
+      internalID: 1582531774420551131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 375
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6db8e1f43a71450800000000000000
+      internalID: 6059491383860516547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b651933e2a5147730800000000000000
+      internalID: 3995842558725526891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06316830c7fd8e00800000000000000
+      internalID: 1048766693198870031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c87f97883d0980800000000000000
+      internalID: -8571132360668954119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_37
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c746ffb9ed628d130800000000000000
+      internalID: 3591663440369771644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_38
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e88cac85b4505d60800000000000000
+      internalID: 7876888886996928736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a005deeb645b730800000000000000
+      internalID: 4014192428709841543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de4bd287d70440c0800000000000000
+      internalID: -4592537097816289579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 355
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25707d83bbad561b0800000000000000
+      internalID: -5663880458701174958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_42
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 257
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8addf897fda3950800000000000000
+      internalID: 6429697131222509741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_43
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 257
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c91bdb0128744fd0800000000000000
+      internalID: -2358628221507135031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_44
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e455fd4def60780800000000000000
+      internalID: -8716999838495584726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84695799b4274960800000000000000
+      internalID: 7586072476855657615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f8d58eab97db0b0800000000000000
+      internalID: -5711274908766597290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_47
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a5c93e68622cbb0800000000000000
+      internalID: -4917325482349012480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_48
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4092c724e85bc70800000000000000
+      internalID: 8986245047689741482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55da16007f8b3ec0800000000000000
+      internalID: -3586114966968937125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add2ecb42c62bf3c0800000000000000
+      internalID: -4324820401221915174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_51
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 305
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b695d2e75a189660800000000000000
+      internalID: 7392687753098794676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_52
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 325
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3a7717385315a0800000000000000
+      internalID: -6551796039253607817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_53
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 325
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bc5dc38b42a8e0800000000000000
+      internalID: -1683700281224939999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_54
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 325
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ce6a1f72a851080800000000000000
+      internalID: -9217309158181245801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_55
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 325
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af0bf75bc4c3120800000000000000
+      internalID: 2394873444269357674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_56
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 325
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33912ddf5c7d80a0800000000000000
+      internalID: -6877704304751176898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_57
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 325
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6989235e2ef6aee70800000000000000
+      internalID: 9145245013627803798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_58
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 325
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84557e5208dc39450800000000000000
+      internalID: 6094440671037838664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_59
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 325
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b97d7289a603f8c0800000000000000
+      internalID: -3966819521674774092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_60
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 259
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d95c1d5129b7e0800000000000000
+      internalID: -1749330296465401874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_62
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 256
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c23d24b331a50330800000000000000
+      internalID: 3676521914256143049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 257
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147b454485a8a4f0800000000000000
+      internalID: -817221344850906093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_64
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 257
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a75fabd0ba9a8f0800000000000000
+      internalID: -528703405779748267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_65
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 259
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834eaa9e81c0ad220800000000000000
+      internalID: 2511333043351512120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 256
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bb31dd6c6495dc0800000000000000
+      internalID: -3649808203080549567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 257
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3f40ee5b26dc10800000000000000
+      internalID: 2077895964568271612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_68
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 257
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20854c279efff5140800000000000000
+      internalID: 4710765113370761218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 259
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63081b3279f951900800000000000000
+      internalID: 654604792339988534
       vertices: []
       indices: 
       edges: []
@@ -207,8 +2013,1037 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d9ed306df58d00c0800000000000000
-      internalID: -4607879520442258985
+      spriteID: 7583828fbaed59b00800000000000000
+      internalID: 834818136131254359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_71
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 250
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b7e79175d59e780800000000000000
+      internalID: -8653282580344439976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_72
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 250
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9118acae788a16f50800000000000000
+      internalID: 6872959808057278745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 251
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96a108933104b50800000000000000
+      internalID: 6575276593644202413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_74
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 251
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5021681fe12d060800000000000000
+      internalID: 6976672795435599307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_75
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 250
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea25344b363a4ea0800000000000000
+      internalID: -5887833934658196761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_76
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 250
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548eca60d9ac82450800000000000000
+      internalID: 6064319674025044037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143288bdaa0ee5450800000000000000
+      internalID: 6079543571428942657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 206
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3f9580cff78cfc0800000000000000
+      internalID: -3474386392067738714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_79
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 207
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0da5fc95a8a3d00800000000000000
+      internalID: 953226389477839027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_80
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4565a79f4abab610800000000000000
+      internalID: 1637826265511978316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_81
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 209
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb71c2bcd68d701a0800000000000000
+      internalID: -6843263142694479940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_82
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 206
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1883ca38d0c3bdf0800000000000000
+      internalID: -165576726351214561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 207
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f525007ac542a45e0800000000000000
+      internalID: -1924685910390058401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_84
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 207
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0fe2303bfc61870800000000000000
+      internalID: 8653332101798490347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_85
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 209
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480af683c8f86d880800000000000000
+      internalID: -8586517807130238844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_86
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 150
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f191796591cb23d10800000000000000
+      internalID: 2103950792948390175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_88
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 150
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37137752c5d8021e0800000000000000
+      internalID: -2224622789015948941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_90
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 150
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3767dacfde19d20800000000000000
+      internalID: 3283667272827565053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 150
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9c6cbd47a555a0800000000000000
+      internalID: -6533131732115480684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_93
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 150
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271399417fa361180800000000000000
+      internalID: -9145057160452296334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_95
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 150
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9494f1239c185c750800000000000000
+      internalID: 6324603952841050441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_97
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 150
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a3fcabce92bb90800000000000000
+      internalID: -7227539854359027656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_99
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 150
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9dd9b6760ac3f30800000000000000
+      internalID: 4556693289039681985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee351b2e3f1406d0800000000000000
+      internalID: -3025258697814884639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_101
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf87af675ceee5310800000000000000
+      internalID: 1395815466403526907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_103
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c753a63622218810800000000000000
+      internalID: 1765730076426721225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_105
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2005d2ca4506810800000000000000
+      internalID: 1756496953145819899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_106
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 100
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bce282774aeafa0800000000000000
+      internalID: -5787507639442289840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 100
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f303f7ba72711240800000000000000
+      internalID: 4760712152505058291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_109
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 100
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e657a12c96f25ab0800000000000000
+      internalID: -5020679484124735767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_111
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 100
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e9b8623bba149b0800000000000000
+      internalID: -5097604517272510820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Robot
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1
+        width: 336
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373441989d843f380800000000000000
+      internalID: -8938720736255392909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title_Factory
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 30
+        width: 348
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2439e59ddc6a500800000000000000
+      internalID: 407239149801915122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600fa004f1fb00dd0800000000000000
+      internalID: -2521805650388127738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_118
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 50
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfecf20ebec7e4bf0800000000000000
+      internalID: -338195569485820163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_120
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 50
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24537a0a18c97c420800000000000000
+      internalID: 2650258986290853186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_122
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 50
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001056c2f56306500800000000000000
+      internalID: 387369350348472576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_123
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 50
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05abda52b8e05a70800000000000000
+      internalID: 8813800323490227471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_125
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 50
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff77147e64fb7e0800000000000000
+      internalID: -1747600171346690198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_127
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 50
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdfe6dd9f96b8a40800000000000000
+      internalID: 5371503502452260272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_129
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 50
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e89f8495aac59360800000000000000
+      internalID: 7175864393795606756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_130
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77705bd4c6c4c0a00800000000000000
+      internalID: 724037668143695735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_131
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3051e07817aa4b6b0800000000000000
+      internalID: -5281409058424875773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_133
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d696f4ddc4ecc5e70800000000000000
+      internalID: 9105379376162105709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_135
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b87fc655a2b5690800000000000000
+      internalID: -7612444198750942350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_136
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7ddc43535ada40800000000000000
+      internalID: 5393715120966565457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_137
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c838d9a7896cde110800000000000000
+      internalID: 1291907026319672204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_139
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 0
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8533c1fc8a3829c10800000000000000
+      internalID: 2058852740714214232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_141
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d19345413f8f4eb0800000000000000
+      internalID: -4733407241564876328
       vertices: []
       indices: 
       edges: []
@@ -228,8 +3063,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10b21af6f89bc5380800000000000000
-      internalID: -8981099531179316479
+      spriteID: a6cfa3f1bff4402c0800000000000000
+      internalID: -4466356990465344406
       vertices: []
       indices: 
       edges: []
@@ -249,8 +3084,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c05f5714ffdade50800000000000000
-      internalID: 6835021623945285831
+      spriteID: 8b482555d3fc78680800000000000000
+      internalID: -8752799488439843656
       vertices: []
       indices: 
       edges: []
@@ -270,20 +3105,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee43184bf361d5450800000000000000
-      internalID: 6079039534887154926
+      spriteID: 3ca24699924d76b40800000000000000
+      internalID: 5433544750578019011
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_1
+      name: robots_parts_143
       rect:
         serializedVersion: 2
-        x: 0
-        y: 449
+        x: 625
+        y: 250
         width: 50
-        height: 50
+        height: 46
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,20 +3126,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5a7e148014b6ca90800000000000000
-      internalID: -7293944563450873252
+      spriteID: 3bda5291ba39a2870800000000000000
+      internalID: 8658895596643790259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_2
+      name: robots_parts_144
       rect:
         serializedVersion: 2
-        x: 50
-        y: 449
-        width: 50
-        height: 50
+        x: 425
+        y: 250
+        width: 51
+        height: 53
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -312,356 +3147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 247bb5f7ea3153470800000000000000
-      internalID: 8373620722347259714
+      spriteID: 52b1e668926b32c40800000000000000
+      internalID: 5486429060532673317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: body_3
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 449
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cca84e773096fe190800000000000000
-      internalID: -7931004955158869300
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_4
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 449
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 20376dac0c3bbe790800000000000000
-      internalID: -7499703113837284606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_9
-      rect:
-        serializedVersion: 2
-        x: 200
-        y: 449
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 558e63e78348ed670800000000000000
-      internalID: 8565428919475824725
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_5
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 399
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b438ef2389d538eb0800000000000000
-      internalID: -4718825076282195125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_6
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 399
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 13f6320a9bde6b0b0800000000000000
-      internalID: -5713117695761486031
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_7
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 399
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d7d4a428a6fa57f0800000000000000
-      internalID: -622914396407670829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_8
-      rect:
-        serializedVersion: 2
-        x: 150
-        y: 399
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e6cee46ce3204c1a0800000000000000
-      internalID: -6790299869529576338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_10
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 449
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b50b994ef63c35b10800000000000000
-      internalID: 1969132347435102299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_11
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 449
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ea20517a019ed2f70800000000000000
-      internalID: 9164237074500747950
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: body_12
-      rect:
-        serializedVersion: 2
-        x: 350
-        y: 449
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7050b2f54b4b646a0800000000000000
-      internalID: -6465281528260000505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arm_green1_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 252
-        width: 25
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d2a76f5d79a9754d0800000000000000
-      internalID: -3145875837774562771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arm_green1_2
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 252
-        width: 20
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40cee9047e2b55c60800000000000000
-      internalID: 7806342235407969284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Head_green_1
-      rect:
-        serializedVersion: 2
-        x: 403
-        y: 447
-        width: 100
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 164209d7f90738e00800000000000000
-      internalID: 1045803368788796513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Head_grey_5
-      rect:
-        serializedVersion: 2
-        x: 802
-        y: 375
-        width: 100
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9d5fda367c686fe70800000000000000
-      internalID: 9148647883978700249
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Legs_yellow_1
-      rect:
-        serializedVersion: 2
-        x: 199
-        y: 50
-        width: 50
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b8b2fd2a0faabd620800000000000000
-      internalID: 2800019543842302859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arm_grey2_1
-      rect:
-        serializedVersion: 2
-        x: 250
-        y: 254
-        width: 25
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2eac99a9d77bd970800000000000000
-      internalID: 8780743675226140204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arm_grey2_2
+      name: robots_parts_145
       rect:
         serializedVersion: 2
         x: 275
-        y: 254
-        width: 25
-        height: 50
+        y: 257
+        width: 15
+        height: 42
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -669,20 +3168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5930b81d2a4f96e0800000000000000
-      internalID: -1828661366140946083
+      spriteID: 3759cbcc5467e8010800000000000000
+      internalID: 1193020993459492211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Legs_green2
+      name: robots_parts_146
       rect:
         serializedVersion: 2
-        x: 51
-        y: 150
-        width: 50
-        height: 50
+        x: 325
+        y: 257
+        width: 14
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -690,20 +3189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e24e029aa2f35eb0800000000000000
-      internalID: -4732171969027489052
+      spriteID: d3be80953ebbcd600800000000000000
+      internalID: 494476644229638973
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Legs_red_8
+      name: robots_parts_147
       rect:
         serializedVersion: 2
-        x: 149
-        y: 0
-        width: 50
-        height: 50
+        x: 375
+        y: 259
+        width: 16
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -711,29 +3210,176 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cb28d3b8c04660d10800000000000000
-      internalID: 2091469081998623420
+      spriteID: eb178839f31b7a2d0800000000000000
+      internalID: -3267448118017756738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Head_yellow_8
+      name: robots_parts_148
       rect:
         serializedVersion: 2
-        x: 1126
-        y: 250
-        width: 50
-        height: 50
+        x: 375
+        y: 209
+        width: 16
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9a348fb7e442c920800000000000000
-      internalID: 3009043263178160798
+      spriteID: 09280255ee67a1820800000000000000
+      internalID: 2889752876914082448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_149
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 207
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd0ea24d16aee10800000000000000
+      internalID: 2227700529568472146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 207
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5def2c5d006150b0800000000000000
+      internalID: -5741702439423185573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_151
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 206
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218035e46f0f0a6b0800000000000000
+      internalID: -5286961021866276846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_152
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 209
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c9c39fde04c8da0800000000000000
+      internalID: -5941302417575601026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_153
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 207
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16af2f6713e43cc40800000000000000
+      internalID: 5531350741697100385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_154
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 207
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23eac38fe29986b0800000000000000
+      internalID: -5293538329591356629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robots_parts_155
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 206
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6811d10c70a3ce0800000000000000
+      internalID: -1424817810406537563
       vertices: []
       indices: 
       edges: []
