@@ -36,7 +36,8 @@ public class SnapPart : MonoBehaviour
     {
         foreach (var snapPart in snapParts)
         {
-            if (snapPart.snapped?.Renderer.sprite != snapPart.correctSpriteRenderer.sprite)
+            if (!snapPart.snapped) return false;
+            if (snapPart?.snapped?.Renderer.sprite != snapPart?.correctSpriteRenderer.sprite)
             {
                 return false;
             }
