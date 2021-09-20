@@ -4,328 +4,328 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -1559323468000754396
-    second: robots_parts_0
+    second: Body1
   - first:
       213: 523670740441586172
-    second: robots_parts_1
+    second: Body2
   - first:
       213: -4607879520442258985
-    second: robots_parts_2
+    second: Body3
   - first:
       213: -8981099531179316479
-    second: robots_parts_3
+    second: Body4
   - first:
       213: 6835021623945285831
-    second: robots_parts_4
+    second: Body5
   - first:
       213: 6079039534887154926
-    second: robots_parts_5
+    second: Body6
   - first:
       213: -3145875837774562771
-    second: robots_parts_18
+    second: Body9
   - first:
       213: 7806342235407969284
-    second: robots_parts_19
+    second: Body10
   - first:
       213: 1045803368788796513
-    second: robots_parts_20
+    second: Body11
   - first:
       213: 9148647883978700249
-    second: robots_parts_21
+    second: Body12
   - first:
       213: 2800019543842302859
-    second: robots_parts_22
+    second: Body13
   - first:
       213: 8780743675226140204
-    second: robots_parts_23
+    second: Body14
   - first:
       213: -1828661366140946083
-    second: robots_parts_24
+    second: Body15
   - first:
       213: -4732171969027489052
-    second: robots_parts_25
+    second: Body16
   - first:
       213: 2091469081998623420
-    second: robots_parts_26
+    second: Head5
   - first:
       213: 3009043263178160798
-    second: robots_parts_27
+    second: Head6
   - first:
       213: 669188449765975291
-    second: robots_parts_28
+    second: Head7
   - first:
       213: -3142274075460061039
-    second: robots_parts_29
+    second: Head8
   - first:
       213: -1188997752208097936
-    second: robots_parts_30
+    second: Head13
   - first:
       213: -824684382126023399
-    second: robots_parts_31
+    second: Head14
   - first:
       213: 1582531774420551131
-    second: robots_parts_32
+    second: Head15
   - first:
       213: 6059491383860516547
-    second: robots_parts_33
+    second: Head16
   - first:
       213: 3995842558725526891
-    second: robots_parts_34
+    second: Body17
   - first:
       213: 1048766693198870031
-    second: robots_parts_35
+    second: Body18
   - first:
       213: -8571132360668954119
-    second: robots_parts_36
+    second: Body19
   - first:
       213: 3591663440369771644
-    second: robots_parts_37
+    second: Body20
   - first:
       213: 7876888886996928736
-    second: robots_parts_38
+    second: Body21
   - first:
       213: 4014192428709841543
-    second: robots_parts_39
+    second: Body22
   - first:
       213: -4592537097816289579
-    second: robots_parts_40
+    second: Body23
   - first:
       213: -5663880458701174958
-    second: robots_parts_41
+    second: Body24
   - first:
       213: 6429697131222509741
-    second: robots_parts_42
+    second: ArmRight2
   - first:
       213: -2358628221507135031
-    second: robots_parts_43
+    second: ArmRight3
   - first:
       213: -8716999838495584726
-    second: robots_parts_44
+    second: Body25
   - first:
       213: 7586072476855657615
-    second: robots_parts_45
+    second: Body26
   - first:
       213: -5711274908766597290
-    second: robots_parts_46
+    second: Body27
   - first:
       213: -4917325482349012480
-    second: robots_parts_47
+    second: Body28
   - first:
       213: 8986245047689741482
-    second: robots_parts_48
+    second: Body29
   - first:
       213: -3586114966968937125
-    second: robots_parts_49
+    second: Body30
   - first:
       213: -4324820401221915174
-    second: robots_parts_50
+    second: Body31
   - first:
       213: 7392687753098794676
-    second: robots_parts_51
+    second: Body32
   - first:
       213: -6551796039253607817
-    second: robots_parts_52
+    second: Head17
   - first:
       213: -1683700281224939999
-    second: robots_parts_53
+    second: Head18
   - first:
       213: -9217309158181245801
-    second: robots_parts_54
+    second: Head19
   - first:
       213: 2394873444269357674
-    second: robots_parts_55
+    second: Head20
   - first:
       213: -6877704304751176898
-    second: robots_parts_56
+    second: Head25
   - first:
       213: 9145245013627803798
-    second: robots_parts_57
+    second: Head26
   - first:
       213: 6094440671037838664
-    second: robots_parts_58
+    second: Head27
   - first:
       213: -3966819521674774092
-    second: robots_parts_59
+    second: Head28
   - first:
       213: -1749330296465401874
-    second: robots_parts_60
+    second: ArmRight4
   - first:
       213: 7877580191563223410
     second: robots_parts_61
   - first:
       213: 3676521914256143049
-    second: robots_parts_62
+    second: ArmLeft1
   - first:
       213: -817221344850906093
-    second: robots_parts_63
+    second: ArmLeft2
   - first:
       213: -528703405779748267
-    second: robots_parts_64
+    second: ArmLeft3
   - first:
       213: 2511333043351512120
-    second: robots_parts_65
+    second: ArmLeft4
   - first:
       213: -3649808203080549567
-    second: robots_parts_66
+    second: ArmLeft5
   - first:
       213: 2077895964568271612
-    second: robots_parts_67
+    second: ArmLeft6
   - first:
       213: 4710765113370761218
-    second: robots_parts_68
+    second: ArmLeft7
   - first:
       213: 654604792339988534
-    second: robots_parts_69
+    second: ArmLeft8
   - first:
       213: 834818136131254359
     second: Play_Button
   - first:
       213: -8653282580344439976
-    second: robots_parts_71
+    second: Head22
   - first:
       213: 6872959808057278745
-    second: robots_parts_72
+    second: Head24
   - first:
       213: 6575276593644202413
-    second: robots_parts_73
+    second: Head29
   - first:
       213: 6976672795435599307
-    second: robots_parts_74
+    second: Head30
   - first:
       213: -5887833934658196761
-    second: robots_parts_75
+    second: Head31
   - first:
       213: 6064319674025044037
-    second: robots_parts_76
+    second: Head32
   - first:
       213: 6079543571428942657
-    second: robots_parts_77
+    second: ArmRight5
   - first:
       213: -3474386392067738714
-    second: robots_parts_78
+    second: ArmLeft9
   - first:
       213: 953226389477839027
-    second: robots_parts_79
+    second: ArmLeft10
   - first:
       213: 1637826265511978316
-    second: robots_parts_80
+    second: ArmLeft11
   - first:
       213: -6843263142694479940
-    second: robots_parts_81
+    second: ArmLeft12
   - first:
       213: -165576726351214561
-    second: robots_parts_82
+    second: ArmLeft13
   - first:
       213: -1924685910390058401
-    second: robots_parts_83
+    second: ArmLeft14
   - first:
       213: 8653332101798490347
-    second: robots_parts_84
+    second: ArmLeft15
   - first:
       213: -8586517807130238844
-    second: robots_parts_85
+    second: ArmLeft16
   - first:
       213: 2103950792948390175
-    second: robots_parts_86
+    second: Leg1
   - first:
       213: -276789498213749490
     second: robots_parts_87
   - first:
       213: -2224622789015948941
-    second: robots_parts_88
+    second: Leg2
   - first:
       213: -732891836903724441
     second: robots_parts_89
   - first:
       213: 3283667272827565053
-    second: robots_parts_90
+    second: Leg3
   - first:
       213: 3134108726059838033
     second: robots_parts_91
   - first:
       213: -6533131732115480684
-    second: robots_parts_92
+    second: Leg4
   - first:
       213: -9145057160452296334
-    second: robots_parts_93
+    second: Leg5
   - first:
       213: -1784800659669579623
     second: robots_parts_94
   - first:
       213: 6324603952841050441
-    second: robots_parts_95
+    second: Leg6
   - first:
       213: -4025609029825929653
     second: robots_parts_96
   - first:
       213: -7227539854359027656
-    second: robots_parts_97
+    second: Leg7
   - first:
       213: -446322310633322007
     second: robots_parts_98
   - first:
       213: 4556693289039681985
-    second: robots_parts_99
+    second: Leg8
   - first:
       213: -3025258697814884639
-    second: robots_parts_100
+    second: Leg9
   - first:
       213: 1395815466403526907
-    second: robots_parts_101
+    second: Leg10
   - first:
       213: -2930258795482477626
     second: robots_parts_102
   - first:
       213: 1765730076426721225
-    second: robots_parts_103
+    second: Leg11
   - first:
       213: 7396316515850180833
     second: robots_parts_104
   - first:
       213: 1756496953145819899
-    second: robots_parts_105
+    second: Leg12
   - first:
       213: -5787507639442289840
-    second: robots_parts_106
+    second: Leg13
   - first:
       213: 4760712152505058291
-    second: robots_parts_107
+    second: Leg14
   - first:
       213: 8280495508580108734
     second: robots_parts_108
   - first:
       213: -5020679484124735767
-    second: robots_parts_109
+    second: Leg15
   - first:
       213: -7293944563450873252
-    second: robots_parts_6
+    second: Body7
   - first:
       213: 8373620722347259714
-    second: robots_parts_7
+    second: Body8
   - first:
       213: -7931004955158869300
-    second: robots_parts_8
+    second: Head1
   - first:
       213: -7499703113837284606
-    second: robots_parts_9
+    second: Head2
   - first:
       213: 8565428919475824725
-    second: robots_parts_10
+    second: Head3
   - first:
       213: -4718825076282195125
-    second: robots_parts_11
+    second: Head4
   - first:
       213: -5713117695761486031
-    second: robots_parts_12
+    second: Head9
   - first:
       213: -622914396407670829
-    second: robots_parts_13
+    second: Head10
   - first:
       213: -6790299869529576338
-    second: robots_parts_14
+    second: Head11
   - first:
       213: 1969132347435102299
-    second: robots_parts_15
+    second: Head12
   - first:
       213: 9164237074500747950
     second: robots_parts_16
@@ -334,7 +334,7 @@ TextureImporter:
     second: robots_parts_110
   - first:
       213: -5097604517272510820
-    second: robots_parts_111
+    second: Leg16
   - first:
       213: -8938720736255392909
     second: Title_Robot
@@ -343,133 +343,133 @@ TextureImporter:
     second: Title_Factory
   - first:
       213: -2521805650388127738
-    second: robots_parts_116
+    second: Leg17
   - first:
       213: -3971736005052988573
     second: robots_parts_117
   - first:
       213: -338195569485820163
-    second: robots_parts_118
+    second: Leg18
   - first:
       213: 8116075691517886122
     second: robots_parts_119
   - first:
       213: 2650258986290853186
-    second: robots_parts_120
+    second: Leg19
   - first:
       213: 8289869291827305548
     second: robots_parts_121
   - first:
       213: 387369350348472576
-    second: robots_parts_122
+    second: Leg20
   - first:
       213: 8813800323490227471
-    second: robots_parts_123
+    second: Leg21
   - first:
       213: 2008327964732869074
     second: robots_parts_124
   - first:
       213: -1747600171346690198
-    second: robots_parts_125
+    second: Leg22
   - first:
       213: 5068279809360044306
     second: robots_parts_126
   - first:
       213: 5371503502452260272
-    second: robots_parts_127
+    second: Leg23
   - first:
       213: 3373133173419474624
     second: robots_parts_128
   - first:
       213: 7175864393795606756
-    second: robots_parts_129
+    second: Leg24
   - first:
       213: 724037668143695735
-    second: robots_parts_130
+    second: Leg25
   - first:
       213: -5281409058424875773
-    second: robots_parts_131
+    second: Leg26
   - first:
       213: -8419380545311843632
     second: robots_parts_132
   - first:
       213: 9105379376162105709
-    second: robots_parts_133
+    second: Leg27
   - first:
       213: 3995211075851316667
     second: robots_parts_134
   - first:
       213: -7612444198750942350
-    second: robots_parts_135
+    second: Leg28
   - first:
       213: 5393715120966565457
-    second: robots_parts_136
+    second: Leg29
   - first:
       213: 1291907026319672204
-    second: robots_parts_137
+    second: Leg30
   - first:
       213: -4560382670212781104
     second: robots_parts_138
   - first:
       213: 2058852740714214232
-    second: robots_parts_139
+    second: Leg31
   - first:
       213: 3542978534764845422
     second: robots_parts_140
   - first:
       213: -4733407241564876328
-    second: robots_parts_141
+    second: Leg32
   - first:
       213: -4466356990465344406
-    second: robots_parts_3
+    second: Body4
   - first:
       213: -8752799488439843656
-    second: robots_parts_4
+    second: Body5
   - first:
       213: 5433544750578019011
-    second: robots_parts_5
+    second: Body6
   - first:
       213: 8658895596643790259
-    second: robots_parts_143
+    second: Head23
   - first:
       213: 5486429060532673317
-    second: robots_parts_144
+    second: Head21
   - first:
       213: -6465281528260000505
-    second: robots_parts_17
+    second: ArmRight1
   - first:
       213: 1193020993459492211
-    second: robots_parts_145
+    second: ArmRight6
   - first:
       213: 494476644229638973
-    second: robots_parts_146
+    second: ArmRight7
   - first:
       213: -3267448118017756738
-    second: robots_parts_147
+    second: ArmRight8
   - first:
       213: 2889752876914082448
-    second: robots_parts_148
+    second: ArmRight15
   - first:
       213: 2227700529568472146
-    second: robots_parts_149
+    second: ArmRight14
   - first:
       213: -5741702439423185573
-    second: robots_parts_150
+    second: ArmRight13
   - first:
       213: -5286961021866276846
-    second: robots_parts_151
+    second: ArmRight12
   - first:
       213: -5941302417575601026
-    second: robots_parts_152
+    second: ArmRight11
   - first:
       213: 5531350741697100385
-    second: robots_parts_153
+    second: ArmRight10
   - first:
       213: -5293538329591356629
-    second: robots_parts_154
+    second: ArmRight9
   - first:
       213: -1424817810406537563
-    second: robots_parts_155
+    second: ArmRight
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -571,7 +571,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: robots_parts_0
+      name: Body1
       rect:
         serializedVersion: 2
         x: 6
@@ -592,7 +592,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_1
+      name: Body2
       rect:
         serializedVersion: 2
         x: 55
@@ -613,7 +613,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_2
+      name: Body3
       rect:
         serializedVersion: 2
         x: 105
@@ -634,7 +634,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_3
+      name: Body4
       rect:
         serializedVersion: 2
         x: 155
@@ -655,7 +655,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_4
+      name: Body5
       rect:
         serializedVersion: 2
         x: 206
@@ -676,7 +676,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_5
+      name: Body6
       rect:
         serializedVersion: 2
         x: 255
@@ -697,11 +697,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_6
+      name: Body7
       rect:
         serializedVersion: 2
         x: 305
-        y: 455
+        y: 456
         width: 39
         height: 39
       alignment: 0
@@ -718,7 +718,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_7
+      name: Body8
       rect:
         serializedVersion: 2
         x: 355
@@ -739,7 +739,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_8
+      name: Head1
       rect:
         serializedVersion: 2
         x: 408
@@ -760,7 +760,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_9
+      name: Head2
       rect:
         serializedVersion: 2
         x: 535
@@ -781,10 +781,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_10
+      name: Head3
       rect:
         serializedVersion: 2
-        x: 634
+        x: 633
         y: 450
         width: 40
         height: 47
@@ -802,7 +802,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_11
+      name: Head4
       rect:
         serializedVersion: 2
         x: 732
@@ -823,7 +823,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_12
+      name: Head9
       rect:
         serializedVersion: 2
         x: 807
@@ -844,7 +844,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_13
+      name: Head10
       rect:
         serializedVersion: 2
         x: 934
@@ -865,7 +865,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_14
+      name: Head11
       rect:
         serializedVersion: 2
         x: 1033
@@ -886,7 +886,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_15
+      name: Head12
       rect:
         serializedVersion: 2
         x: 1131
@@ -907,7 +907,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_17
+      name: ArmRight1
       rect:
         serializedVersion: 2
         x: 25
@@ -928,7 +928,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_18
+      name: Body9
       rect:
         serializedVersion: 2
         x: 6
@@ -949,7 +949,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_19
+      name: Body10
       rect:
         serializedVersion: 2
         x: 55
@@ -970,7 +970,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_20
+      name: Body11
       rect:
         serializedVersion: 2
         x: 105
@@ -991,7 +991,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_21
+      name: Body12
       rect:
         serializedVersion: 2
         x: 155
@@ -1012,7 +1012,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_22
+      name: Body13
       rect:
         serializedVersion: 2
         x: 206
@@ -1033,7 +1033,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_23
+      name: Body14
       rect:
         serializedVersion: 2
         x: 255
@@ -1054,7 +1054,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_24
+      name: Body15
       rect:
         serializedVersion: 2
         x: 305
@@ -1075,7 +1075,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_25
+      name: Body16
       rect:
         serializedVersion: 2
         x: 355
@@ -1096,11 +1096,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_26
+      name: Head5
       rect:
         serializedVersion: 2
         x: 425
-        y: 375
+        y: 376
         width: 51
         height: 46
       alignment: 0
@@ -1117,7 +1117,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_27
+      name: Head6
       rect:
         serializedVersion: 2
         x: 525
@@ -1138,7 +1138,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_28
+      name: Head7
       rect:
         serializedVersion: 2
         x: 625
@@ -1159,7 +1159,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_29
+      name: Head8
       rect:
         serializedVersion: 2
         x: 726
@@ -1180,7 +1180,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_30
+      name: Head13
       rect:
         serializedVersion: 2
         x: 824
@@ -1201,7 +1201,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_31
+      name: Head14
       rect:
         serializedVersion: 2
         x: 924
@@ -1222,7 +1222,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_32
+      name: Head15
       rect:
         serializedVersion: 2
         x: 1024
@@ -1243,7 +1243,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_33
+      name: Head16
       rect:
         serializedVersion: 2
         x: 1125
@@ -1264,7 +1264,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_34
+      name: Body17
       rect:
         serializedVersion: 2
         x: 6
@@ -1285,7 +1285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_35
+      name: Body18
       rect:
         serializedVersion: 2
         x: 55
@@ -1306,7 +1306,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_36
+      name: Body19
       rect:
         serializedVersion: 2
         x: 105
@@ -1327,7 +1327,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_37
+      name: Body20
       rect:
         serializedVersion: 2
         x: 155
@@ -1348,7 +1348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_38
+      name: Body21
       rect:
         serializedVersion: 2
         x: 206
@@ -1369,11 +1369,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_39
+      name: Body22
       rect:
         serializedVersion: 2
         x: 255
-        y: 355
+        y: 356
         width: 39
         height: 39
       alignment: 0
@@ -1390,7 +1390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_40
+      name: Body23
       rect:
         serializedVersion: 2
         x: 305
@@ -1411,7 +1411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_41
+      name: Body24
       rect:
         serializedVersion: 2
         x: 355
@@ -1432,7 +1432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_42
+      name: ArmRight2
       rect:
         serializedVersion: 2
         x: 75
@@ -1453,7 +1453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_43
+      name: ArmRight3
       rect:
         serializedVersion: 2
         x: 125
@@ -1474,7 +1474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_44
+      name: Body25
       rect:
         serializedVersion: 2
         x: 6
@@ -1495,7 +1495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_45
+      name: Body26
       rect:
         serializedVersion: 2
         x: 55
@@ -1516,7 +1516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_46
+      name: Body27
       rect:
         serializedVersion: 2
         x: 105
@@ -1537,7 +1537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_47
+      name: Body28
       rect:
         serializedVersion: 2
         x: 155
@@ -1558,7 +1558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_48
+      name: Body29
       rect:
         serializedVersion: 2
         x: 206
@@ -1579,7 +1579,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_49
+      name: Body30
       rect:
         serializedVersion: 2
         x: 255
@@ -1600,7 +1600,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_50
+      name: Body31
       rect:
         serializedVersion: 2
         x: 305
@@ -1621,7 +1621,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_51
+      name: Body32
       rect:
         serializedVersion: 2
         x: 355
@@ -1642,7 +1642,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_52
+      name: Head17
       rect:
         serializedVersion: 2
         x: 408
@@ -1663,7 +1663,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_53
+      name: Head18
       rect:
         serializedVersion: 2
         x: 535
@@ -1684,7 +1684,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_54
+      name: Head19
       rect:
         serializedVersion: 2
         x: 634
@@ -1705,7 +1705,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_55
+      name: Head20
       rect:
         serializedVersion: 2
         x: 732
@@ -1726,7 +1726,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_56
+      name: Head25
       rect:
         serializedVersion: 2
         x: 808
@@ -1747,7 +1747,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_57
+      name: Head26
       rect:
         serializedVersion: 2
         x: 935
@@ -1768,7 +1768,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_58
+      name: Head27
       rect:
         serializedVersion: 2
         x: 1034
@@ -1789,7 +1789,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_59
+      name: Head28
       rect:
         serializedVersion: 2
         x: 1132
@@ -1810,7 +1810,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_60
+      name: ArmRight4
       rect:
         serializedVersion: 2
         x: 175
@@ -1831,7 +1831,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_62
+      name: ArmLeft1
       rect:
         serializedVersion: 2
         x: 9
@@ -1852,7 +1852,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_63
+      name: ArmLeft2
       rect:
         serializedVersion: 2
         x: 60
@@ -1873,7 +1873,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_64
+      name: ArmLeft3
       rect:
         serializedVersion: 2
         x: 111
@@ -1894,7 +1894,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_65
+      name: ArmLeft4
       rect:
         serializedVersion: 2
         x: 159
@@ -1915,7 +1915,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_66
+      name: ArmLeft5
       rect:
         serializedVersion: 2
         x: 209
@@ -1936,7 +1936,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_67
+      name: ArmLeft6
       rect:
         serializedVersion: 2
         x: 260
@@ -1957,7 +1957,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_68
+      name: ArmLeft7
       rect:
         serializedVersion: 2
         x: 311
@@ -1978,7 +1978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_69
+      name: ArmLeft8
       rect:
         serializedVersion: 2
         x: 359
@@ -2020,7 +2020,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_71
+      name: Head22
       rect:
         serializedVersion: 2
         x: 525
@@ -2041,7 +2041,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_72
+      name: Head24
       rect:
         serializedVersion: 2
         x: 726
@@ -2062,7 +2062,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_73
+      name: Head29
       rect:
         serializedVersion: 2
         x: 825
@@ -2083,11 +2083,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_74
+      name: Head30
       rect:
         serializedVersion: 2
         x: 925
-        y: 251
+        y: 252
         width: 51
         height: 49
       alignment: 0
@@ -2104,7 +2104,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_75
+      name: Head31
       rect:
         serializedVersion: 2
         x: 1025
@@ -2125,7 +2125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_76
+      name: Head32
       rect:
         serializedVersion: 2
         x: 1126
@@ -2146,7 +2146,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_77
+      name: ArmRight5
       rect:
         serializedVersion: 2
         x: 225
@@ -2167,7 +2167,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_78
+      name: ArmLeft9
       rect:
         serializedVersion: 2
         x: 9
@@ -2188,7 +2188,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_79
+      name: ArmLeft10
       rect:
         serializedVersion: 2
         x: 60
@@ -2209,7 +2209,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_80
+      name: ArmLeft11
       rect:
         serializedVersion: 2
         x: 111
@@ -2230,7 +2230,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_81
+      name: ArmLeft12
       rect:
         serializedVersion: 2
         x: 159
@@ -2251,7 +2251,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_82
+      name: ArmLeft13
       rect:
         serializedVersion: 2
         x: 209
@@ -2272,7 +2272,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_83
+      name: ArmLeft14
       rect:
         serializedVersion: 2
         x: 260
@@ -2293,7 +2293,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_84
+      name: ArmLeft15
       rect:
         serializedVersion: 2
         x: 311
@@ -2314,7 +2314,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_85
+      name: ArmLeft16
       rect:
         serializedVersion: 2
         x: 359
@@ -2335,7 +2335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_86
+      name: Leg1
       rect:
         serializedVersion: 2
         x: 6
@@ -2356,7 +2356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_88
+      name: Leg2
       rect:
         serializedVersion: 2
         x: 61
@@ -2377,7 +2377,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_90
+      name: Leg3
       rect:
         serializedVersion: 2
         x: 110
@@ -2398,7 +2398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_92
+      name: Leg4
       rect:
         serializedVersion: 2
         x: 156
@@ -2419,7 +2419,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_93
+      name: Leg5
       rect:
         serializedVersion: 2
         x: 206
@@ -2440,7 +2440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_95
+      name: Leg6
       rect:
         serializedVersion: 2
         x: 261
@@ -2461,7 +2461,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_97
+      name: Leg7
       rect:
         serializedVersion: 2
         x: 310
@@ -2482,7 +2482,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_99
+      name: Leg8
       rect:
         serializedVersion: 2
         x: 356
@@ -2503,7 +2503,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_100
+      name: Leg9
       rect:
         serializedVersion: 2
         x: 11
@@ -2524,7 +2524,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_101
+      name: Leg10
       rect:
         serializedVersion: 2
         x: 58
@@ -2545,7 +2545,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_103
+      name: Leg11
       rect:
         serializedVersion: 2
         x: 111
@@ -2566,7 +2566,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_105
+      name: Leg12
       rect:
         serializedVersion: 2
         x: 167
@@ -2587,7 +2587,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_106
+      name: Leg13
       rect:
         serializedVersion: 2
         x: 211
@@ -2608,7 +2608,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_107
+      name: Leg14
       rect:
         serializedVersion: 2
         x: 258
@@ -2629,7 +2629,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_109
+      name: Leg15
       rect:
         serializedVersion: 2
         x: 311
@@ -2650,7 +2650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_111
+      name: Leg16
       rect:
         serializedVersion: 2
         x: 367
@@ -2713,7 +2713,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_116
+      name: Leg17
       rect:
         serializedVersion: 2
         x: 6
@@ -2734,7 +2734,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_118
+      name: Leg18
       rect:
         serializedVersion: 2
         x: 61
@@ -2755,7 +2755,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_120
+      name: Leg19
       rect:
         serializedVersion: 2
         x: 110
@@ -2776,7 +2776,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_122
+      name: Leg20
       rect:
         serializedVersion: 2
         x: 156
@@ -2797,7 +2797,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_123
+      name: Leg21
       rect:
         serializedVersion: 2
         x: 206
@@ -2818,7 +2818,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_125
+      name: Leg22
       rect:
         serializedVersion: 2
         x: 261
@@ -2839,7 +2839,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_127
+      name: Leg23
       rect:
         serializedVersion: 2
         x: 310
@@ -2860,7 +2860,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_129
+      name: Leg24
       rect:
         serializedVersion: 2
         x: 356
@@ -2881,7 +2881,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_130
+      name: Leg25
       rect:
         serializedVersion: 2
         x: 11
@@ -2902,7 +2902,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_131
+      name: Leg26
       rect:
         serializedVersion: 2
         x: 58
@@ -2923,7 +2923,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_133
+      name: Leg27
       rect:
         serializedVersion: 2
         x: 111
@@ -2944,7 +2944,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_135
+      name: Leg28
       rect:
         serializedVersion: 2
         x: 167
@@ -2965,7 +2965,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_136
+      name: Leg29
       rect:
         serializedVersion: 2
         x: 211
@@ -2986,7 +2986,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_137
+      name: Leg30
       rect:
         serializedVersion: 2
         x: 258
@@ -3007,7 +3007,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_139
+      name: Leg31
       rect:
         serializedVersion: 2
         x: 311
@@ -3028,7 +3028,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_141
+      name: Leg32
       rect:
         serializedVersion: 2
         x: 367
@@ -3112,7 +3112,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_143
+      name: Head23
       rect:
         serializedVersion: 2
         x: 625
@@ -3133,7 +3133,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_144
+      name: Head21
       rect:
         serializedVersion: 2
         x: 425
@@ -3154,7 +3154,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_145
+      name: ArmRight6
       rect:
         serializedVersion: 2
         x: 275
@@ -3175,7 +3175,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_146
+      name: ArmRight7
       rect:
         serializedVersion: 2
         x: 325
@@ -3196,7 +3196,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_147
+      name: ArmRight8
       rect:
         serializedVersion: 2
         x: 375
@@ -3217,7 +3217,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_148
+      name: ArmRight15
       rect:
         serializedVersion: 2
         x: 375
@@ -3238,7 +3238,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_149
+      name: ArmRight14
       rect:
         serializedVersion: 2
         x: 325
@@ -3259,7 +3259,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_150
+      name: ArmRight13
       rect:
         serializedVersion: 2
         x: 275
@@ -3280,7 +3280,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_151
+      name: ArmRight12
       rect:
         serializedVersion: 2
         x: 225
@@ -3301,7 +3301,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_152
+      name: ArmRight11
       rect:
         serializedVersion: 2
         x: 175
@@ -3322,7 +3322,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_153
+      name: ArmRight10
       rect:
         serializedVersion: 2
         x: 125
@@ -3343,7 +3343,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_154
+      name: ArmRight9
       rect:
         serializedVersion: 2
         x: 75
@@ -3364,7 +3364,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: robots_parts_155
+      name: ArmRight
       rect:
         serializedVersion: 2
         x: 25
