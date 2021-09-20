@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
@@ -31,6 +32,8 @@ public class RobotGame : MonoBehaviour
     public ScrollingPanel textPanel;
     public Text levelText;
     public string rememberRobotText, buildRobotText, youDidGreatText, notCorrectText;
+
+    public UnityEvent OnSuccess, OnFail;
 
     public Vector2Int rangeHeads = new Vector2Int(2,4), 
         rangeBodies= new Vector2Int(2,4), 
@@ -106,11 +109,13 @@ public class RobotGame : MonoBehaviour
         {
             okButton.onClick.RemoveListener(Levelup);
             okButton.onClick.AddListener(Levelup);
+            OnSuccess.Invoke();
         }
         else
         {
             okButton.onClick.RemoveListener(Retry);
             okButton.onClick.AddListener(Retry);
+            OnFail.Invoke();
         }
     }
 
