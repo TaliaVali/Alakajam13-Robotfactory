@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.elzach.extensions": {
+      "version": "https://github.com/NoArtistAvailable/elzach-extensions.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a9add4cc9ffc4efd85384415153ed1972723c691"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,

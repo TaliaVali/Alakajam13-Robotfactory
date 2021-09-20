@@ -1,28 +1,63 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class Drag_and_Drop : MonoBehaviour
 {
-
     private Vector3 dragOffset;
-    private Camera cam;
-
-
-    private void Awake()
+    private static Camera _cam;
+    public static Camera cam
     {
-        cam = Camera.main;
+        get
+        {
+            if (!_cam) _cam = Camera.main;
+            return _cam;
+        }
     }
+
+    private Rigidbody2D _rb2D;
+    public SnapPart snapTarget;
+
+    public Rigidbody2D rb2D
+    {
+        get
+        {
+            if (!_rb2D) _rb2D = GetComponent<Rigidbody2D>();
+            return _rb2D;
+        }
+    }
+
+    public event Action onDragStarted;
 
     private void OnMouseDown()
     {
         dragOffset = transform.position - GetMousePos();
+        rb2D.isKinematic = true;
+        if(onDragStarted!=null) onDragStarted.Invoke();
     }
 
 
     private void OnMouseDrag()
     {
         transform.position = GetMousePos() + dragOffset;
+    }
+
+    void OnMouseUp()
+    {
+        if (snapTarget)
+        {
+            transform.position = snapTarget.transform.position;
+            transform.rotation = Quaternion.identity;
+            snapTarget.Snapped(this);
+        }
+        else
+        {
+            rb2D.isKinematic = false;
+        }
+
+        rb2D.angularVelocity = 0f;
+        rb2D.velocity = Vector2.zero;
     }
 
     Vector3 GetMousePos ()
