@@ -22,6 +22,7 @@ public class RobotPart : MonoBehaviour
     {
         get
         {
+            if (!gameObject) return null;
             if (!_renderer) _renderer = GetComponent<SpriteRenderer>();
             return _renderer;
         }
@@ -34,7 +35,17 @@ public class RobotPart : MonoBehaviour
         if (randomize) Renderer.sprite = PartLibrary.GetSprite(bodyType);
         var boxCollider = GetComponent<BoxCollider2D>();
         boxCollider.size = Renderer.sprite.rect.size / Renderer.sprite.pixelsPerUnit;
-        RobotGame.onStartingRound += () => Destroy(gameObject);
+        RobotGame.onStartingRound += SelfDestruct;
+    }
+
+    void SelfDestruct()
+    {
+        Destroy(gameObject);
+    }
+
+    void OnDestroy()
+    {
+        RobotGame.onStartingRound -= SelfDestruct;
     }
 
     void OnDrawGizmosSelected()

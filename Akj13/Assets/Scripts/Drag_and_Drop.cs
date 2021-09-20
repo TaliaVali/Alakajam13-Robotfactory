@@ -32,6 +32,7 @@ public class Drag_and_Drop : MonoBehaviour
 
     private void OnMouseDown()
     {
+        if (!RobotGame.WeCanClick) return;
         dragOffset = transform.position - GetMousePos();
         rb2D.isKinematic = true;
         if(onDragStarted!=null) onDragStarted.Invoke();
@@ -40,11 +41,13 @@ public class Drag_and_Drop : MonoBehaviour
 
     private void OnMouseDrag()
     {
+        if (!RobotGame.WeCanClick) return;
         transform.position = GetMousePos() + dragOffset;
     }
 
     void OnMouseUp()
     {
+        if (!RobotGame.WeCanClick) return;
         if (snapTarget)
         {
             transform.position = snapTarget.transform.position;

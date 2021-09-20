@@ -1,8 +1,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
+using UnityEngine.UI;
 using Random = UnityEngine.Random;
 
 public class RobotGame : MonoBehaviour
@@ -17,12 +17,20 @@ public class RobotGame : MonoBehaviour
         }
     }
 
-    public static event Action onStartingRound; 
+    public static event Action onStartingRound;
+    public static bool WeCanClick = true;
     
     public Vector2 spawnBounds;
 
     public RandomBlueprint targetBlueprint;
     public RobotPart partsPrefab;
+    public Animatable shutterAnimatable;
+
+    public Button okButton;
+
+    public ScrollingPanel textPanel;
+    public Text levelText;
+    public string rememberRobotText, buildRobotText, youDidGreatText, notCorrectText;
 
     public Vector2Int rangeHeads = new Vector2Int(2,4), 
         rangeBodies= new Vector2Int(2,4), 
@@ -32,8 +40,11 @@ public class RobotGame : MonoBehaviour
     [ContextMenu("Start Round")]
     public void StartRound()
     {
+        WeCanClick = true;
         if(onStartingRound != null) onStartingRound.Invoke();
         targetBlueprint.Shuffle();
+        
+        shutterAnimatable.Play(1);
 
         List<RobotPart> newParts = new List<RobotPart>();
         partsPrefab.gameObject.SetActive(false);
@@ -68,7 +79,78 @@ public class RobotGame : MonoBehaviour
         partsPrefab.gameObject.SetActive(true);
         partsPrefab.randomize = true;
 
+        dontSpawn = true;
+        textPanel.SetString(rememberRobotText);
+        okButton.onClick.RemoveListener(SetDontSpawnToFalse);
+        okButton.onClick.AddListener(SetDontSpawnToFalse);
         StartCoroutine(EnableBodyParts(newParts));
+    }
+
+    void SetDontSpawnToFalse()
+    {
+        shutterAnimatable.Play(0);
+        dontSpawn = false;
+        okButton.onClick.RemoveListener(CheckForWin);
+        okButton.onClick.AddListener(CheckForWin);
+        textPanel.SetString(buildRobotText);
+    }
+
+    void CheckForWin()
+    {
+        WeCanClick = false;
+        okButton.onClick.RemoveListener(CheckForWin);
+        shutterAnimatable.Play(1);
+        bool won = SnapPart.WinCheck();
+        textPanel.SetString(won ? youDidGreatText : notCorrectText);
+        if (won)
+        {
+            okButton.onClick.RemoveListener(Levelup);
+            okButton.onClick.AddListener(Levelup);
+        }
+        else
+        {
+            okButton.onClick.RemoveListener(Retry);
+            okButton.onClick.AddListener(Retry);
+        }
+    }
+
+    void Retry()
+    {
+        WeCanClick = true;
+        foreach(var snap in SnapPart.snapParts) snap.UnSnap();
+        okButton.onClick.RemoveListener(Retry);
+        shutterAnimatable.Play(0);
+        textPanel.SetString(buildRobotText);
+        okButton.onClick.RemoveListener(CheckForWin);
+        okButton.onClick.AddListener(CheckForWin);
+    }
+
+    public int level = 0;
+    void Levelup()
+    {
+        okButton.onClick.RemoveListener(Levelup);
+        level++;
+        levelText.text = level.ToString("00");
+        if (level % 2 == 0)
+        {
+            rangeHeads.y++;
+        }
+
+        if (level % 3 == 0)
+        {
+            rangeHeads.x++;
+            rangeBodies.x++;
+            rangeBodies.y++;
+            rangeArms.y++;
+            rangeLegs.y++;
+        }
+
+        if (level % 4 == 0)
+        {
+            rangeArms.x++;
+            rangeLegs.x++;
+        }
+        StartRound();
     }
 
     void SpawnRandomPartsIntoList(Vector2Int range, RobotPart.BodyType bodyType, ref List<RobotPart> list)
@@ -83,8 +165,12 @@ public class RobotGame : MonoBehaviour
         }
     }
 
+    public bool dontSpawn;
+    
     IEnumerator EnableBodyParts(List<RobotPart> list)
     {
+        while (dontSpawn) yield return null;
+        okButton.onClick.RemoveListener(SetDontSpawnToFalse);
         int randIndex = Random.Range(0, list.Count);
         var part = list[randIndex];
         part.gameObject.SetActive(true);
